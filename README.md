@@ -22,3 +22,7 @@
 ### Deliverable 3:  Create a Travel Itenerary Map
 > Utilized the Google Directions API to create a travel itenterary that showing the route between four cities chosen from the customer's possible travel destinations.  Displaying the route using a marker layer map with pop-up for each city.
 
+<img width="540" alt="Screen Shot 2021-12-27 at 9 50 02 PM" src="https://user-images.githubusercontent.com/37478490/147526095-a2e69810-baab-4239-aeef-9f17a29ff0e0.png">
+
+<img width="540" alt="Screen Shot 2021-12-27 at 9 47 23 PM" src="https://user-images.githubusercontent.com/37478490/147526034-2aa00fa1-649e-4694-b724-71b12003bc6a.png">
+
